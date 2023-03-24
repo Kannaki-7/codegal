@@ -23,4 +23,3 @@ else:
     else:
         # Else print "Invalid Mobile number. Mobile number must begin with 7 or 8 or 9"
         print("Invalid Mobile number. Mobile number must begin with 7 or 8 or 9")
-Print("Code running successfully")
